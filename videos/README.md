@@ -11,3 +11,4 @@
 - 7 - 🎬 [Try-Not-To-Laugh-#86](https://github.com/ghanooni/Beasty/tree/main/videos/Try-Not-To-Laugh-%2386)
 - 8 - 🎬 [Try-Not-To-Laugh-(YTP-Edition-#14)](https://github.com/ghanooni/Beasty/tree/main/videos/Try-Not-To-Laugh-%28YTP-Edition-%2314%29)
 - 9 - 🎬 [Try-Not-To-Laugh-(YTP-Edition-#17)](https://github.com/ghanooni/Beasty/tree/main/videos/Try-Not-To-Laugh-%28YTP-Edition-%2317%29)
+- 10 - 🎬 [Try-Not-To-Laugh-Challenge-#80](https://github.com/ghanooni/Beasty/tree/main/videos/Try-Not-To-Laugh-Challenge-%2380)
